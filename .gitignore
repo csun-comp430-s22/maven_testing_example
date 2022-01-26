@@ -1,0 +1,9 @@
+# Mac stuff
+.DS_Store
+
+# Emacs temp files
+*~
+\#*\#
+
+# Maven build stuff
+target/
